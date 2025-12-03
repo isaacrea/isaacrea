@@ -74,7 +74,7 @@ I want to build a long-term career in cybersecurity, ideally working on blue-tea
   
 
 - **Active Directory Detection Lab** – Designed playbooks in Shuffle SOAR integrated with Splunk, Slack, email, and Active Directory to automate alert enrichment, account lockdown decisions, and notifications for unauthorized login activity.  
-  <a href="https://github.com/" target="_blank">View on GitHub</a>
+  <a href="https://github.com/isaacrea/active-directory-detection" target="_blank">View on GitHub</a>
 
 - **JWKS Server** – Secure authentication microservice featuring AES-encrypted private keys, Argon2 password hashing, authentication logging, and rate limiting to defend against common web attacks.  
   <a href="https://github.com/isaacrea/jwks-server/" target="_blank">View on GitHub</a>
