@@ -15,8 +15,8 @@ I want to build a long-term career in cybersecurity, ideally working on blue-tea
 | Security Lab Design & SIEM Log Ingestion             | <a href="https://github.com/" target="_blank">Detection Lab</a> |
 | Network Security, Firewalling & IDS/IPS Tuning       | <a href="https://github.com/" target="_blank">pfSense/Snort Home Lab</a> |
 | EDR Telemetry Analysis & Threat Hunting              | <a href="https://github.com/" target="_blank">LimaCharlie SOC/EDR Lab</a> |
-| Security Automation & SOAR Playbook Development      | <a href="https://github.com/" target="_blank">SOC Automation Workflow (Shuffle + Slack + AD)</a> |
-| Secure API & Authentication Design (JWKS, AES, IAM)  | <a href="https://github.com/isaacrea/jwks-server" target="_blank">JWKS Server v3</a> |
+| Security Automation & SOAR Playbook Development      | <a href="https://github.com/isaacrea/active-directory-detection" target="_blank">Active Directory Detection Lab</a> |
+| Secure API & Authentication Design (JWKS, AES, IAM)  | <a href="https://github.com/isaacrea/jwks-server" target="_blank">JWKS Server</a> |
 | Cloud Infrastructure, Serverless & Monitoring        | <a href="https://github.com/" target="_blank">Dog Feeding Tracker (IoT + Cloud)</a> |
 | Accessible Web App Development (WCAG, UX for VI)     | <a href="https://github.com/DillonEdington/SonifyGraphs" target="_blank">Sonifi (Sonify for Graphs)</a> |
 
@@ -73,7 +73,7 @@ I want to build a long-term career in cybersecurity, ideally working on blue-tea
 - **Detection Lab** – Built a small home lab to generate and analyze security events, forwarding logs into SIEM tools and practicing triage, enrichment, and basic threat hunting.  
   <a href="https://github.com/" target="_blank">View on GitHub</a>
 
-- **SOC Automation Workflow** – Designed playbooks in Shuffle SOAR integrated with Splunk, Slack, email, and Active Directory to automate alert enrichment, account lockdown decisions, and notifications for unauthorized login activity.  
+- **Active Directory Detection Lab** – Designed playbooks in Shuffle SOAR integrated with Splunk, Slack, email, and Active Directory to automate alert enrichment, account lockdown decisions, and notifications for unauthorized login activity.  
   <a href="https://github.com/" target="_blank">View on GitHub</a>
 
 - **JWKS Server** – Secure authentication microservice featuring AES-encrypted private keys, Argon2 password hashing, authentication logging, and rate limiting to defend against common web attacks.  
