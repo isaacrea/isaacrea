@@ -12,12 +12,12 @@ I want to build a long-term career in cybersecurity, ideally working on blue-tea
 
 | Skill                                                | Associated Project |
 |------------------------------------------------------|--------------------|
-| Security Lab Design & SIEM Log Ingestion             | <a href="https://github.com/" target="_blank">Detection Lab</a> |
-| Network Security, Firewalling & IDS/IPS Tuning       | <a href="https://github.com/" target="_blank">pfSense/Snort Home Lab</a> |
-| EDR Telemetry Analysis & Threat Hunting              | <a href="https://github.com/" target="_blank">LimaCharlie SOC/EDR Lab</a> |
+| Security Lab Design & SIEM Log Ingestion             |  |
+| Network Security, Firewalling & IDS/IPS Tuning       |  |
+| EDR Telemetry Analysis & Threat Hunting              |  |
 | Security Automation & SOAR Playbook Development      | <a href="https://github.com/isaacrea/active-directory-detection" target="_blank">Active Directory Detection Lab</a> |
 | Secure API & Authentication Design (JWKS, AES, IAM)  | <a href="https://github.com/isaacrea/jwks-server" target="_blank">JWKS Server</a> |
-| Cloud Infrastructure, Serverless & Monitoring        | <a href="https://github.com/" target="_blank">Dog Feeding Tracker (IoT + Cloud)</a> |
+| Cloud Infrastructure, Serverless & Monitoring        |  |
 | Accessible Web App Development (WCAG, UX for VI)     | <a href="https://github.com/DillonEdington/SonifyGraphs" target="_blank">Sonifi (Sonify for Graphs)</a> |
 
 ## Tools
@@ -71,7 +71,7 @@ I want to build a long-term career in cybersecurity, ideally working on blue-tea
 ## Projects
 
 - **Detection Lab** – Built a small home lab to generate and analyze security events, forwarding logs into SIEM tools and practicing triage, enrichment, and basic threat hunting.  
-  <a href="https://github.com/" target="_blank">View on GitHub</a>
+  
 
 - **Active Directory Detection Lab** – Designed playbooks in Shuffle SOAR integrated with Splunk, Slack, email, and Active Directory to automate alert enrichment, account lockdown decisions, and notifications for unauthorized login activity.  
   <a href="https://github.com/" target="_blank">View on GitHub</a>
@@ -83,4 +83,4 @@ I want to build a long-term career in cybersecurity, ideally working on blue-tea
   <a href="https://github.com/DillonEdington/SonifyGraphs" target="_blank">View on GitHub</a>
 
 - **Dog Feeding Tracker (IoT Project)** – ESP32-based button and rotary selector that logs who fed the dog and when, sending data to a cloud backend and displaying it on a web dashboard.  
-  <a href="https://github.com/" target="_blank">View on GitHub</a>
+  
